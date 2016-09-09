@@ -60,7 +60,7 @@ namespace ConsoleApplication1
             }
 
             //ovning3
-
+             
             Console.ReadKey();
         }
     }
